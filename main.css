@@ -178,6 +178,7 @@ img.profile-pic {
 	font-family: 'Muli', sans-serif;
 	color: white;
 	font-weight: 300;
+	border-radius: 11px;
 }
 
 @media screen and (max-width: 600px) {
